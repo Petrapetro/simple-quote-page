@@ -77,9 +77,16 @@ q {
   text-transform: uppercase;
   color: rgba(0, 0, 0, .7);
   display: block;
-  margin-top: -14%;
+  margin-top: -17%;
   margin-left: 7%;
   margin-right: 7%;
-  
+}
+
+p { 
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  margin-top: 1.8rem;
+  font-size: 1.5rem;
+  color: rgba(0, 0, 0, .7);
 }
 
